@@ -1,5 +1,6 @@
 # HALF_ADDER_SUBTRACTOR
-
+###name:VINOTH K R
+###reg.no:212224050060
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
@@ -17,8 +18,7 @@ Software – Quartus prime Theory Adders are digital circuits that carry out the
 Half adder is a combinational circuit that performs simple addition of two binary numbers. The input variables designate the augend and addend bits; the output variables produce the sum and carry. It is necessary to specify two output variables because the result may consist of two binary digits.
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
-
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
+![Screenshot 2025-04-16 081820](https://github.com/user-attachments/assets/110919d6-01dc-45b0-b961-2dabc217984b)
 
 Figure -01 HALF ADDER
 
@@ -28,12 +28,17 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
+![32257aa77b6143258cbb920f2d48d539 1](https://github.com/user-attachments/assets/6787126a-054b-4fb1-bf85-bcbfbf4ac658)
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
 
 **Truthtable**
+half adder:
+![WhatsApp Image 2025-04-16 at 08 47 09_de01b381](https://github.com/user-attachments/assets/1cb17b19-0c8a-4de7-8fda-e8e09c5fdf79)
+
+half subtract:
+![WhatsApp Image 2025-04-16 at 08 47 09_003f75b2](https://github.com/user-attachments/assets/f5875946-74f3-42b4-95e4-a6dbcaad2deb)
 
 **Procedure**
 
@@ -49,13 +54,20 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+half adder:
+![4811731a788b44639cee2bdc3fe461f3 1](https://github.com/user-attachments/assets/f82eba59-78cd-4191-9df9-386b05f4b805)
+half subtract:
+![e0f5072e39bf4ed38fac4920d70e996b 1](https://github.com/user-attachments/assets/bfde83ef-9bdd-452d-aaaf-fec44165c104)
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-
-Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
 **Output/TIMING Waveform**
+half adder:
+![da3ba99035654034abb6e2623e089c05 1](https://github.com/user-attachments/assets/264fef9e-5f06-4a42-a1a6-4a0fbf5993cc)
+half subtract:
+![f9af1707cc444818a235be77bfb8e97f 1](https://github.com/user-attachments/assets/4327de0a-a17f-4d55-b002-0862a5776438)
+
 
 **Result:**
+ The code is excecuted successfully.
